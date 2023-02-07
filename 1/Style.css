@@ -35,3 +35,22 @@ ul li a:hover{
     background-color: blueviolet;
     color: #000;
 }
+
+.logo h1{
+    float: left;
+    width: 150px;
+    height: auto;
+}
+
+.main{
+    max-width: 1200px;
+    margin: auto;
+
+}
+
+.title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
